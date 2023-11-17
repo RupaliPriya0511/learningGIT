@@ -1,3 +1,3 @@
 # learningGIT
 This is my first GIT repository.
-Author=RUPALI PRIYA
+Author=RUPALI PRIYA(MCA)
